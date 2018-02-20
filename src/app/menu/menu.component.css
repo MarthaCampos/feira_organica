@@ -1,0 +1,25 @@
+nav{
+    height: 100%; 
+    width: 125px; 
+    position: fixed; 
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #6B8E23; 
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+a{
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    display: block;
+}
+
+p{
+    font-size: 30px;
+    color: white;
+    margin-left: 15px;
+}

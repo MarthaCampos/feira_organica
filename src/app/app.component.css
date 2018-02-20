@@ -1,0 +1,18 @@
+.header{
+    margin-left: 120px;
+    display: flex;
+    background-color:#556B2F;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+.search{
+    margin-left: 120px;
+    display: flex;
+    background-color: #B8860B;
+    padding: 10px;
+}
+
+app-login{
+    margin-left: auto;
+}
