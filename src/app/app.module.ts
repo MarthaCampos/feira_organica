@@ -12,6 +12,7 @@ import { DestaquesComponent } from './destaques/destaques.component';
 import { NovidadesComponent } from './novidades/novidades.component';
 import { FooterComponent } from './footer/footer.component';
 import { ProdutosComponent } from './produtos/produtos.component';
+import { BackendComponent } from './backend/backend.component';
 
 
 @NgModule({
@@ -25,7 +26,8 @@ import { ProdutosComponent } from './produtos/produtos.component';
     DestaquesComponent,
     NovidadesComponent,
     FooterComponent,
-    ProdutosComponent
+    ProdutosComponent,
+    BackendComponent
   ],
   imports: [
     BrowserModule
