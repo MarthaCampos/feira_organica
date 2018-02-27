@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+}
+
+.produto {
+margin-left: 120px;
+
+}
+
+img{
+width: 150px;
+height: 150px;
+}
